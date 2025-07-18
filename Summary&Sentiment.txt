@@ -1,0 +1,445 @@
+==== Summary Report ====
+Timestamp: 2025-07-07 16:23:48
+User ID: cGsoN6xvqLJjdUy-AAAD
+Rating: N/A
+
+Summary: The user initiates a conversation with the chatbot, which offers assistance with shipment-related tasks and asks for specific help.
+
+Sentiment: Neutral==== Summary Report ====
+Timestamp: 2025-07-07 16:25:03
+User ID: cGsoN6xvqLJjdUy-AAAD
+Rating: 3
+
+Summary: The user was assisted by the chatbot to track their shipment and received an update on the expected delivery date. The user then ended the conversation and provided a neutral rating of 3, which indicated some level of satisfaction but not complete happiness with the service.
+
+Sentiment: Neutral==== Summary Report ====
+Timestamp: 2025-07-07 16:26:44
+User ID: 7TpPYJRgN3wA2ef3AAAF
+Rating: N/A
+
+Summary: The chatbot conversation is about a user seeking assistance with shipment-related tasks, and the bot offers to help.
+
+Sentiment: Neutral==== Summary Report ====
+Timestamp: 2025-07-07 16:27:20
+User ID: 7TpPYJRgN3wA2ef3AAAF
+Rating: 1
+
+Summary: The user reported an issue with their shipment being delayed due to local weather, and the bot provided a solution by estimating a new delivery date. However, the user was not satisfied with the outcome and ended the conversation without further assistance.
+
+Sentiment: Negative==== Summary Report ====
+Timestamp: 2025-07-07 16:28:52
+User ID: gt4hxW--4CxpX5wtAAAH
+Rating: N/A
+
+Summary: The chatbot conversation is a simple query-response interaction where the user asks for assistance with shipment-related tasks, and the bot responds by offering to help.
+
+Sentiment: Neutral==== Summary Report ====
+Timestamp: 2025-07-07 16:29:03
+User ID: gt4hxW--4CxpX5wtAAAH
+Rating: 5
+
+Summary: The user interacted with the chatbot to inquire about shipment-related offers and later ended the conversation. They also provided a rating of 5, indicating satisfaction.
+
+Sentiment: Positive==== Summary Report ====
+Timestamp: 2025-07-07 16:36:39
+User ID: 2XsdH1XP7OrFMMTFAAAJ
+Rating: N/A
+
+Summary: The conversation starts with the bot offering assistance with shipment-related tasks and asking for user input on what they need help with.
+
+Sentiment: Neutral==== Summary Report ====
+Timestamp: 2025-07-07 16:37:48
+User ID: 2XsdH1XP7OrFMMTFAAAJ
+Rating: N/A
+
+Summary: The user initially reports a delivery delay issue and receives an update on the new delivery expected date. The user then tries to track their shipment multiple times with incorrect AWB numbers, prompting the bot to ask for input again.
+
+Sentiment: Neutral==== Summary Report ====
+Timestamp: 2025-07-07 16:38:51
+User ID: 2XsdH1XP7OrFMMTFAAAJ
+Rating: 2
+
+Summary: The conversation is about a user seeking information on shipment tracking and delivery status using a chatbot service. The user initially reports a delay, then tracks two packages with different AWB numbers. The bot correctly identifies the valid package and provides an update on its expected delivery date. However, when asked to track another package, the user enters an invalid number, prompting the bot to inform them of the error.
+
+Sentiment: Neutral==== Summary Report ====
+Timestamp: 2025-07-07 16:41:58
+User ID: xMdsOOK1i-X6AzdbAAAL
+Rating: N/A
+
+Summary: The conversation is about a user requesting assistance from a chatbot for shipment-related tasks, and the bot responds with an offer of help.
+
+Sentiment: Neutral
+
+==== Summary Report ====
+Timestamp: 2025-07-08 13:10:04
+User ID: a_GNa-dkIeRpsibVAAAD
+Rating: 3
+
+Summary:
+
+
+Sentiment: N/A
+
+
+==== Summary Report ====
+Timestamp: 2025-07-08 13:22:37
+User ID: zlGIJslnSWo4ByZHAAAD
+Rating: 2
+
+Summary: User tracks shipment and receives updates on delivery status.
+Sentiment: Neutral
+
+==== Summary Report ====
+Timestamp: 2025-07-08 13:26:34
+User ID: EEhIXSryq3xuGDZPAAAF
+Rating: 1
+
+Summary: User requests tracking and delivery information, receives incorrect input warnings, and provides ratings.
+Sentiment: Negative
+
+==== Summary Report ====
+Timestamp: 2025-07-08 13:45:43
+User ID: L3WQcmk8nMkJn7stAAAH
+Rating: 4
+
+Summary: User requested help with shipment-related tasks, including viewing offers and reporting a delivery delay.
+Sentiment: Positive
+
+==== Summary Report ====
+Timestamp: 2025-07-09 14:30:40
+User ID: pyWQ2hZvD-V9OGhDAAAh
+Rating: 4
+
+Summary: User requests help with shipment-related tasks and receives offers, then ends the conversation.
+Sentiment: Positive
+
+==== Summary Report ====
+Timestamp: 2025-07-11 10:02:10
+User ID: lRt5cTYxjUSo5DRiAAAD
+Rating: 3
+
+Summary: User successfully tracked and inquired about shipment delays using a chatbot for shipping-related tasks.
+Sentiment: Positive
+
+==== Summary Report ====
+Timestamp: 2025-07-11 12:56:49
+User ID: CVapeYkm8sH5GRqEAAAF
+Rating: 3
+
+Summary: User cancels two shipments with incorrect AWB numbers and receives help, leading to a mixed interaction.
+Sentiment: Neutral
+
+==== Summary Report ====
+Timestamp: 2025-07-12 21:02:00
+User ID: pYIPDTh3RxhDHeKMAAAT
+Rating: 4
+
+Summary: User receives shipment-related assistance and provides feedback, resulting in a positive experience.
+Sentiment: Positive
+
+==== Summary Report ====
+Timestamp: 2025-07-14 11:07:11
+User ID: ASkFjcUXUWFj5wpYAAAF
+Rating: 4
+
+Summary: The user interacted with the chatbot to inquire about shipment offers, report a delivery delay issue, and rate their experience.
+Sentiment: Positive
+
+==== Summary Report ====
+Timestamp: 2025-07-14 11:20:18
+User ID: am0iQ_ZdjcfKmRaaAAAL
+Rating: 3
+
+Summary: The chatbot helped a user cancel their shipment and responded to follow-up queries, ultimately receiving a neutral rating of 3.
+
+Sentiment: Neutral
+
+==== Summary Report ====
+Timestamp: 2025-07-14 14:37:17
+User ID: -HHqrs5h5OAgC3y8AAAP
+Rating: 3
+
+Summary: User interacts with a chatbot for shipment-related tasks.
+Sentiment: Positive
+Score: 0.5
+Main Language: English
+Other Languages Used: Hindi: शिपमेंट 2233444 रद्द कर दी गई है। (Part of user's input)
+
+==== Summary Report ====
+Timestamp: 2025-07-15 11:10:28
+User ID: G4OdLkPi8_D0ygcdAAAR
+Rating: 3
+
+Summary: User rates 3-star experience for service after requesting offers and ending conversation.
+Sentiment: Neutral
+Score: 0
+Main Language: English
+Other Languages Used: None
+
+==== Summary Report ====
+Timestamp: 2025-07-15 13:38:43
+User ID: lJfMaO6ttgIrIoQCAAAD
+Rating: N/A
+
+Summary: User selects language and initiates tracking shipment process.
+Sentiment: Positive
+Score: +0.5
+Main Language: English
+Other Languages Used: Hindi: /स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें, नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे, कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें, Thank you for using our service. We appreciate your feedback. Have a great day!
+
+==== Summary Report ====
+Timestamp: 2025-07-15 13:39:25
+User ID: idgTFKba9DHsjhPtAAAF
+Rating: N/A
+
+Summary: User selects Hindi and receives shipping-related assistance.
+Sentiment: Positive
+Score: +0.5
+Main Language: English
+Other Languages Used: Hindi: /स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें, नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे, कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें, Thank you for using our service. We appreciate your feedback. Have a great day!
+
+==== Summary Report ====
+Timestamp: 2025-07-15 13:41:00
+User ID: uwbcGuxNATPavUqIAAAH
+Rating: N/A
+
+Summary: User tracks a shipment using the bot's assistance.
+Sentiment: Positive
+Score: +0.5
+Main Language: English
+Other Languages Used: Hindi: / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-15 13:48:03
+User ID: eR_2Dj3j2QHfwRjpAAAL
+Rating: N/A
+
+Summary: User selects language and starts using the bot to track shipment.
+Sentiment: Positive
+Score: +0.5
+Main Language: English
+Other Languages Used: Hindi: /स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-15 13:51:31
+User ID: 5Tc2Gt5FW20qm10PAAAP
+Rating: N/A
+
+Summary: User selects Hindi and interacts with the bot to track a shipment.
+Sentiment: Positive
+Score: +0.5
+Main Language: English
+Other Languages Used: Hindi: / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-15 13:53:52
+User ID: JtDs8QB_6Dz4O1ZkAAAF
+Rating: N/A
+
+Summary: User interacts with a chatbot to track a shipment.
+Sentiment: Positive
+Score: 0.9
+Main Language: English
+Other Languages Used: Hindi: / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-15 13:57:08
+User ID: e_AM6RKkARutnjR8AAAD
+Rating: N/A
+
+Summary: User selects language and tracks shipment status.
+Sentiment: Positive
+Score: +0.5
+Main Language: English
+Other Languages Used: Hindi: /स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-15 14:00:15
+User ID: xe93CI7E3GJvg0D9AAAF
+Rating: N/A
+
+Summary: User receives basic help for a shipment-related issue and is thanked before the conversation ends.
+Sentiment: Positive
+Score: 0.8
+Main Language: English
+Other Languages Used: Hindi: / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-15 14:03:28
+User ID: 1PxAaCTNQq-rDWBKAAAH
+Rating: N/A
+
+Summary: User selects Hindi language and interacts with the bot for shipping-related queries.
+Sentiment: Positive
+Score: 0.8
+Main Language: English
+Other Languages Used: Hindi: /choose_language{"language1": "hindi"}
+
+==== Summary Report ====
+Timestamp: 2025-07-15 14:04:10
+User ID: iqIzdEyYRYppbAExAAAJ
+Rating: N/A
+
+1. User selects language and tracks shipment.
+2. Sentiment: Positive
+3. Score: +0.8
+4. Main Language: English
+5. None
+
+==== Summary Report ====
+Timestamp: 2025-07-15 15:34:32
+User ID: gFHHdNug0fH_iPpNAAAF
+Rating: 3
+
+Summary: User selects Hindi and receives shipping-related assistance.
+Sentiment: Positive
+Score: +0.6
+Main Language: English
+Other Languages Used: Hindi: / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें, /choose_language{"language1": "hindi"}
+
+==== Summary Report ====
+Timestamp: 2025-07-15 16:12:56
+User ID: fa4RGmiUn6jAvamOAAAN
+Rating: 3
+
+Summary: User cancels shipment and rates the experience.
+Sentiment: Positive
+Score: 0.5
+Main Language: English
+Other Languages Used: Hindi: / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-15 16:14:33
+User ID: xSTJCywfbMHnUz9bAAAP
+Rating: 4
+
+Summary: User interacts with a chatbot to track and cancel a shipment.
+
+Sentiment: Positive
+Score: +0.5
+Main Language: English
+Other Languages Used: Hindi: / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें, Hindi: नमस्कार!, Hindi: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?, Hindi: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद।
+
+==== Summary Report ====
+Timestamp: 2025-07-15 16:22:32
+User ID: C_w_xSCLr6vZMkKiAAAF
+Rating: 4
+
+Summary: User interacts with a chatbot to track shipments and rate their experience.
+Sentiment: Neutral
+Score: 0
+Main Language: English
+Other Languages Used: Hindi: /स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-15 16:27:09
+User ID: noox3kxhuwGwJo9SAAAH
+Rating: 5
+
+Summary: User interacts with a chatbot to track shipment and delivery status.
+Sentiment: Positive
+Score: +0.8
+Main Language: English
+Other Languages Used: Hindi: /स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें, /ज़रूर, नीचे सभी चालू ऑफ़र दिए गए हैं, /क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?, /हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं।
+
+==== Summary Report ====
+Timestamp: 2025-07-16 12:05:45
+User ID: oYEcrO2CiHHsfNkbAAAN
+Rating: 4
+
+Summary: User tracks shipment and cancels it after delay issues.
+Sentiment: Positive
+Score: +0.2
+Main Language: English
+Other Languages Used: Hindi: /स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-16 12:08:33
+User ID: ox5PCUoS4GEZTMOTAAAP
+Rating: 4
+
+Summary: User successfully tracks shipments and cancels one, with assistance from the bot.
+Sentiment: Positive
+Score: +0.5
+Main Language: English
+Other Languages Used: Hindi: /स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें
+
+==== Summary Report ====
+Timestamp: 2025-07-16 13:35:25
+User ID: xwRV9rqbVy8RrCH9AAAF
+Rating: 4
+
+Summary: User selects Hindi language and interacts with bot for tracking shipment, cancelling shipment, viewing offers, and ending conversation.
+Sentiment: Positive
+Score: +0.5
+Language: Hindi
+
+==== Summary Report ====
+Timestamp: 2025-07-16 13:37:31
+User ID: n6ZAMQNxdqg2ue98AAAH
+Rating: 4
+
+Summary: User interacts with a chatbot, tracks shipments, cancels one, views offers, and ends conversation. 
+Sentiment: Positive
+Score: +0.5
+Language: English
+
+==== Summary Report ====
+Timestamp: 2025-07-16 13:38:32
+User ID: P3nxqS8M-Pxm4wTrAAAJ
+Rating: 2
+
+Summary: User selects Hindi language and interacts with bot to report delivery delay and cancel shipment, receiving assistance and ending conversation.
+Sentiment: Neutral
+Score: 0
+Language: Hindi
+
+==== Summary Report ====
+Timestamp: 2025-07-16 23:18:06
+User ID: 4qEflV_cqPQim7l2AAAD
+Rating: 4
+
+Summary: User selects language, tracks shipment, and cancels it due to delivery delay issue.
+Sentiment: Positive
+Score: +0.5
+Language: English
+
+==== Summary Report ====
+Timestamp: 2025-07-16 23:21:10
+User ID: 6c4gZdvV8fswt10eAAAF
+Rating: 3
+
+Summary: User interacts with a chatbot to track shipment, cancel shipment, and get updates on delivery status in Hindi.
+Sentiment: Positive
+Score: 0.5
+Language: hindi
+
+==== Summary Report ====
+Timestamp: 2025-07-17 10:17:52
+User ID: 2VPMX_B90hVefXk-AAAV
+Rating: 3
+
+Summary: User interacts with the chatbot to track shipment, report delivery issues and cancel shipments.
+Sentiment: Positive
+Score: 0.5
+Language: English
+
+==== Summary Report ====
+Timestamp: 2025-07-17 10:26:17
+User ID: SQwuGMMqOMbskesBAAAZ
+Rating: 4
+
+Summary: User selects Hindi as preferred language and interacts with the bot to track shipment, report delivery delay issue, and cancel shipment. The user then ends the conversation and provides a rating of 4.
+Sentiment: Positive
+Score: +0.5
+Language: Hindi
+
+==== Summary Report ====
+Timestamp: 2025-07-18 01:06:03
+User ID: vYOl8pnDNjX22ZGbAAAN
+Rating: 2
+
+Summary: A user interacted with a chatbot to track shipment, report delivery issues, view offers, and cancel shipments. The chatbot provided assistance in Hindi.
+Sentiment: Neutral
+Score: 0
+Language: Hindi

@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-awb_number",
+      "2": "I-awb_number",
+      "3": "L-awb_number",
+      "4": "U-awb_number",
+      "5": "B-rating_value",
+      "6": "I-rating_value",
+      "7": "L-rating_value",
+      "8": "U-rating_value",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-awb_number": 1,
+      "I-awb_number": 2,
+      "L-awb_number": 3,
+      "U-awb_number": 4,
+      "B-rating_value": 5,
+      "I-rating_value": 6,
+      "L-rating_value": 7,
+      "U-rating_value": 8,
+      "O": 0
+    },
+    "num_tags": 9
+  }
+]

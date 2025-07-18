@@ -1,0 +1,248 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - track_shipment
+  - delivery_delay_issue
+  - provide_awb_number
+  # - provide_pincode
+  - rate_experience
+  - end_conversation
+  - show_offers
+  - cancel_shipment
+  - choose_language
+  # - recommend_movie
+  # - inform_actor
+  # - tell_weather
+  # - ask_city  
+  # - inform_actor+ask_city
+  # - ask_date
+  # - ask_time
+  # - ask_llama
+
+
+entities:
+  - awb_number
+  # - pincode
+  - rating_value
+  - language1
+  # - actor
+  # - city
+
+slots:
+  awb_number:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: awb_number
+      - type: from_text
+        conditions:
+          - active_loop: awb_form
+            requested_slot: awb_number
+        intent: provide_awb_number
+    
+  language:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+  
+  language1:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: language1
+  # pincode:
+  #   type: text
+  #   influence_conversation: false
+  #   mappings:
+  #      - type: from_entity
+  #        entity: pincode
+
+  rating_value:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: rating_value
+  
+forms:
+  awb_form:
+    required_slots:
+      - awb_number
+  # actor:
+  #   type: text
+  #   influence_conversation: true
+  #   mappings:
+  #     - type: from_entity
+  #       entity: actor
+
+  # city:
+  #   type: text
+  #   influence_conversation: true
+  #   mappings:
+  #     - type: from_entity
+  #       entity: city
+
+responses:
+  
+  utter_greet_language_prompt:
+  - text: "🌐 Welcome! (स्वागत है!) 🙏 \nPlease select your preferred language to continue.\nकृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।"
+    buttons:
+      - title: "English"
+        payload: '/choose_language{"language1": "english"}'
+      - title: "हिंदी (Hindi)"
+        payload: '/choose_language{"language1": "hindi"}'
+
+  utter_greet:
+    - condition:
+      - type: slot
+        name: language1
+        value: english
+      text: "Hi! I can help you with shipment-related tasks. What would you like to do?"
+      buttons:
+        - title: "📦 Track Shipment"
+          payload: /track_shipment
+        - title: "🚚 Report Delay"
+          payload: /delivery_delay_issue
+        - title: "🎁 Offers"
+          payload: /show_offers 
+        - title: "❌ Cancel Shipment"
+          payload: /cancel_shipment   
+        # - title: "📤 Schedule Pickup"
+        #   payload: /pickup_request
+        # - title: "❌ Cancel Shipment"
+        #   payload: /cancel_shipment
+        # - title: "✅ Confirm Delivery"
+        #   payload: /delivery_confirmation
+        # - title: "✏️ Change Delivery PIN"
+        #   payload: /change_delivery_pincode
+    - condition:
+      - type: slot
+        name: language1
+        value: hindi
+      text: "नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?"    
+      buttons:
+        - title: "📦 शिपमेंट ट्रैक करें"
+          payload: /track_shipment
+        - title: "🚚 डिलीवरी में देरी रिपोर्ट करें"
+          payload: /delivery_delay_issue
+        - title: "🎁 ऑफ़र देखें"
+          payload: /show_offers
+        - title: "❌ शिपमेंट रद्द करें"
+          payload: /cancel_shipment
+  utter_main_menu:
+    - condition:
+      - type: slot
+        name: language1
+        value: english
+      text: "Is there anything else I can help you with?"
+      buttons:
+        - title: "📦 Track Shipment"
+          payload: /track_shipment
+        - title: "🚚 Report Delay"
+          payload: /delivery_delay_issue
+        - title: "🎁 Offers"
+          payload: /show_offers   
+        - title: "❌ Cancel Shipment"
+          payload: /cancel_shipment  
+        - title: "No, I'm good"
+          payload: /end_conversation
+    - condition:
+      - type: slot
+        name: language1
+        value: hindi
+      text: "क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?"
+      buttons:
+        - title: "📦 शिपमेंट ट्रैक करें"
+          payload: /track_shipment
+        - title: "🚚 डिलीवरी में देरी रिपोर्ट करें"
+          payload: /delivery_delay_issue
+        - title: "🎁 ऑफ़र देखें"
+          payload: /show_offers   
+        - title: "❌ शिपमेंट रद्द करें"
+          payload: /cancel_shipment  
+        - title: "नहीं, मुझे ठीक है"
+          payload: /end_conversation
+  utter_ask_rating:
+    - condition:
+        - type: slot
+          name: language1
+          value: english
+      text: "Please rate your experience:"
+      buttons:
+        - title: "🌟 1"
+          payload: '/rate_experience{"rating_value": "1"}'
+        - title: "🌟 2"
+          payload: '/rate_experience{"rating_value": "2"}'
+        - title: "🌟 3"
+          payload: '/rate_experience{"rating_value": "3"}'
+        - title: "🌟 4"
+          payload: '/rate_experience{"rating_value": "4"}'
+        - title: "🌟 5"
+          payload: '/rate_experience{"rating_value": "5"}'
+    - condition:
+        - type: slot
+          name: language1
+          value: hindi
+      text: "कृपया अपने अनुभव को रेट करें:"
+      buttons:
+        - title: "🌟 १"
+          payload: '/rate_experience{"rating_value": "1"}'
+        - title: "🌟 २"
+          payload: '/rate_experience{"rating_value": "2"}'
+        - title: "🌟 ३"
+          payload: '/rate_experience{"rating_value": "3"}'
+        - title: "🌟 ४"
+          payload: '/rate_experience{"rating_value": "4"}'
+        - title: "🌟 ५"
+          payload: '/rate_experience{"rating_value": "5"}'
+  utter_goodbye:
+    - text: "Thank you for using our service. We appreciate your feedback. Have a great day! 👋"
+  # utter_ask_actor:
+  #   - text: "Any actor you'd like to see in the movie?"
+
+  # utter_iamabot:
+  #   - text: "I'm a Rasa-powered assistant, here to help!"
+  utter_ask_awb_no.:
+    - condition:
+        - type: slot
+          name: language1
+          value: english
+      text: "📦 Please enter your 7-digit AWB number:"
+
+    - condition:
+        - type: slot
+          name: language1
+          value: hindi
+      text: "📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:"
+  
+  utter_ask_awb_no._hi:
+    - text: "📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:"
+
+  # utter_ask_city:
+  #   - text: "Which city's weather would you like to check?"  
+
+actions:
+  - action_track_shipment
+  - action_check_delay
+  - validate_awb_form
+  - action_store_rating
+  - action_show_offers
+  - action_summarize_sentiment
+  - action_detect_language
+  - action_cancel_shipment
+  - action_ask_awb_no
+  # - action_handle_rating
+  # - action_recommend_movie
+  # - action_get_weather
+  # - action_provide_date
+  # - action_provide_time
+  # - action_llama_response
+
+# session_config:
+#    session_expiration_time: 60
+#    carry_over_slots_to_new_session: true 

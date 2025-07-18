@@ -1,0 +1,962 @@
+
+
+==== Conversation @ 2025-07-07 15:54:18 | User ID: IsKRiNhRDZDsNG2pAAAF ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+
+==== Conversation @ 2025-07-07 15:54:43 | User ID: IsKRiNhRDZDsNG2pAAAF ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: ❌ '123' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-07 15:55:28 | User ID: lZgbYeND7NW_z147AAAH ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+
+==== Conversation @ 2025-07-07 15:55:51 | User ID: lZgbYeND7NW_z147AAAH ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234589
+Bot: ✅ Your package with AWB 1234589 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-07 16:23:48 | User ID: cGsoN6xvqLJjdUy-AAAD ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+
+==== Conversation @ 2025-07-07 16:25:03 | User ID: cGsoN6xvqLJjdUy-AAAD ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: ❌ '123' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-07 16:26:44 | User ID: 7TpPYJRgN3wA2ef3AAAF ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+
+==== Conversation @ 2025-07-07 16:27:20 | User ID: 7TpPYJRgN3wA2ef3AAAF ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "1"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-07 16:28:52 | User ID: gt4hxW--4CxpX5wtAAAH ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+
+==== Conversation @ 2025-07-07 16:29:03 | User ID: gt4hxW--4CxpX5wtAAAH ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "5"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-07 16:36:39 | User ID: 2XsdH1XP7OrFMMTFAAAJ ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+
+==== Conversation @ 2025-07-07 16:37:48 | User ID: 2XsdH1XP7OrFMMTFAAAJ ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234345
+Bot: ✅ Your package with AWB 1234345 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: grgrg45
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+
+==== Conversation @ 2025-07-07 16:38:51 | User ID: 2XsdH1XP7OrFMMTFAAAJ ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234345
+Bot: ✅ Your package with AWB 1234345 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: grgrg45
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: my awb number is 1244457777
+Bot: ❌ '1244457777' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 2134456
+Bot: ✅ Your package with AWB 2134456 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "2"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-07 16:41:58 | User ID: xMdsOOK1i-X6AzdbAAAL ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+
+==== Conversation @ 2025-07-08 13:10:04 | User ID: a_GNa-dkIeRpsibVAAAD ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: ❌ '123' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+
+==== Conversation @ 2025-07-08 13:22:37 | User ID: zlGIJslnSWo4ByZHAAAD ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: ❌ '123' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 1234567890
+Bot: ❌ '1234567890' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: ❌ '123' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 234
+Bot: Shipment 234 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 234
+Bot: Shipment 234 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: ❌ '123' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 2345678
+Bot: ✅ Your package with AWB 2345678 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "2"}
+
+==== Conversation @ 2025-07-08 13:26:34 | User ID: EEhIXSryq3xuGDZPAAAF ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: ❌ '123' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 234
+Bot: ❌ '234' is not a valid AWB number. It must be 7 digits. Please try again:
+User: 7654321
+Bot: ✅ Your package with AWB 7654321 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234567
+Bot: Shipment 1234567 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234556
+Bot: Shipment 1234556 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "1"}
+
+==== Conversation @ 2025-07-08 13:45:43 | User ID: L3WQcmk8nMkJn7stAAAH ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "4"}
+
+==== Conversation @ 2025-07-09 14:30:40 | User ID: pyWQ2hZvD-V9OGhDAAAh ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "4"}
+
+==== Conversation @ 2025-07-11 10:02:10 | User ID: lRt5cTYxjUSo5DRiAAAD ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123456
+Bot: ❌ '123456' is not a valid AWB number. It must be 7 digits. Please try again:
+User: my awb no. is 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+
+==== Conversation @ 2025-07-11 12:56:49 | User ID: CVapeYkm8sH5GRqEAAAF ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 has been cancelled. Thank you!
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: मेरा AWB नंबर 4455667 है
+Bot: Shipment 4455667 has been cancelled. Thank you!
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 has been cancelled. Thank you!
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123 मेरी शिपमेंट रद्द करो
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: शिपमेंट 123 रद्द कर दी गई है। धन्यवाद!
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-12 21:02:00 | User ID: pYIPDTh3RxhDHeKMAAAT ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "4"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-14 11:07:11 | User ID: ASkFjcUXUWFj5wpYAAAF ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234567
+Bot: Shipment 1234567 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "4"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-14 11:20:18 | User ID: am0iQ_ZdjcfKmRaaAAAL ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: मेरी शिपमेंट रद्द करो
+Bot: कृपया अपनी एडब्ल्यूबी संख्या बताएं।
+User: एडब्ल्यूबी नंबर 2233444 है
+Bot: शिपमेंट 2233444 रद्द कर दी गई है।
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: एडब्ल्यूबी नंबर 2233444 है
+Bot: शिपमेंट 2233444 रद्द कर दी गई है।
+Bot: Is there anything else I can help you with?
+User: मेरी शिपमेंट रद्द करो
+Bot: कृपया अपनी एडब्ल्यूबी संख्या बताएं।
+User: my awb no. is 1236789
+Bot: Shipment 1236789 has been cancelled.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-14 14:37:17 | User ID: -HHqrs5h5OAgC3y8AAAP ====
+User: 
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Shipment 123 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: एडब्ल्यूबी नंबर 2233444 है
+Bot: शिपमेंट 2233444 रद्द कर दी गई है।
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 11:10:28 | User ID: G4OdLkPi8_D0ygcdAAAR ====
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /express_offer
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 13:38:43 | User ID: lJfMaO6ttgIrIoQCAAAD ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 123
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 13:39:25 | User ID: idgTFKba9DHsjhPtAAAF ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /delivery_delay_issue
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 1234567
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 13:41:00 | User ID: uwbcGuxNATPavUqIAAAH ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 13:48:03 | User ID: eR_2Dj3j2QHfwRjpAAAL ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 123
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 13:51:31 | User ID: 5Tc2Gt5FW20qm10PAAAP ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 123
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 13:53:52 | User ID: JtDs8QB_6Dz4O1ZkAAAF ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 13:57:08 | User ID: e_AM6RKkARutnjR8AAAD ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 14:00:15 | User ID: xe93CI7E3GJvg0D9AAAF ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 14:03:28 | User ID: 1PxAaCTNQq-rDWBKAAAH ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 14:04:10 | User ID: iqIzdEyYRYppbAExAAAJ ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1234567
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 15:34:32 | User ID: gFHHdNug0fH_iPpNAAAF ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223
+Bot: ❌ '223' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 2232232
+Bot: ✅ आपका पार्सल एडब्ल्यूबी 2232232 ट्रांजिट में है और इसके कल शाम तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "3"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋
+
+==== Conversation @ 2025-07-15 16:12:56 | User ID: fa4RGmiUn6jAvamOAAAN ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 223
+Bot: ❌ '223' is not a valid 7-digit AWB number. Please try again.
+User: 2232232
+Bot: Shipment 2232232 has been cancelled.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 16:14:33 | User ID: xSTJCywfbMHnUz9bAAAP ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223
+Bot: ❌ '223' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 2232232
+Bot: ✅ आपका पार्सल एडब्ल्यूबी 2232232 ट्रांजिट में है और इसके कल शाम तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /cancel_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223223
+Bot: ❌ '223223' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 2232232
+Bot: Shipment 2232232 has been cancelled.
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "4"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋
+
+==== Conversation @ 2025-07-15 16:22:32 | User ID: C_w_xSCLr6vZMkKiAAAF ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 223
+Bot: ❌ '223' is not a valid 7-digit AWB number. Please try again.
+User: 2232232
+Bot: Shipment 2232232 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 123
+Bot: ❌ '123' is not a valid 7-digit AWB number. Please try again.
+User: 1234567
+Bot: Shipment 1234567 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 223
+Bot: ❌ '223' is not a valid 7-digit AWB number. Please try again.
+User: 2232232
+Bot: Shipment 2232232 has been cancelled.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "4"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-15 16:27:09 | User ID: noox3kxhuwGwJo9SAAAH ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /show_offers
+Bot: ज़रूर, नीचे सभी चालू ऑफ़र दिए गए हैं। सभी ऑफ़र्स देखने के लिए स्लाइड करें:
+Bot: None
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /cancel_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223
+Bot: ❌ '223' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 1234567
+Bot: Shipment 1234567 has been cancelled.
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 1236789
+Bot:  शिपमेंट एडब्ल्यूबी 1236789) स्थानीय मौसम के कारण विलंबित है। अब यह कल तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /delivery_delay_issue
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223
+Bot: ❌ '223' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 4567890
+Bot:  शिपमेंट एडब्ल्यूबी 4567890) स्थानीय मौसम के कारण विलंबित है। अब यह कल तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /show_offers
+Bot: ज़रूर, नीचे सभी चालू ऑफ़र दिए गए हैं। सभी ऑफ़र्स देखने के लिए स्लाइड करें:
+Bot: None
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "5"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋
+
+==== Conversation @ 2025-07-16 12:05:45 | User ID: oYEcrO2CiHHsfNkbAAAN ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 223
+Bot: ❌ '223' is not a valid 7-digit AWB number. Please try again.
+User: 2232232
+Bot: Shipment 2232232 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 223
+Bot: ❌ '223' is not a valid 7-digit AWB number. Please try again.
+User: 2232232
+Bot: Shipment 2232232 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 22
+Bot: ❌ '22' is not a valid 7-digit AWB number. Please try again.
+User: my awb no. is 2234456
+Bot: Shipment 2234456 has been cancelled.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "4"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-16 12:08:33 | User ID: ox5PCUoS4GEZTMOTAAAP ====
+User: 
+Bot: Welcome! Please select your preferred language to continue. / स्वागत है! कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें:
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 2
+Bot: ❌ '2' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: एडब्ल्यूबी नंबर 2233446 है
+Bot:  शिपमेंट एडब्ल्यूबी 2233446) स्थानीय मौसम के कारण विलंबित है। अब यह कल तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /delivery_delay_issue
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 1234567
+Bot:  शिपमेंट एडब्ल्यूबी 1234567) स्थानीय मौसम के कारण विलंबित है। अब यह कल तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /show_offers
+Bot: ज़रूर, नीचे सभी चालू ऑफ़र दिए गए हैं। सभी ऑफ़र्स देखने के लिए स्लाइड करें:
+Bot: None
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /cancel_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223
+Bot: ❌ '223' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 2232232
+Bot: Shipment 2232232 has been cancelled.
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "4"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋
+
+==== Conversation @ 2025-07-16 13:35:25 | User ID: xwRV9rqbVy8RrCH9AAAF ====
+User: 
+Bot: 🌐 Welcome! (स्वागत है!) 🙏 
+Please select your preferred language to continue.
+कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 1235678
+Bot: ✅ आपका पार्सल एडब्ल्यूबी 1235678 ट्रांजिट में है और इसके कल शाम तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /cancel_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 2232312
+Bot: शिपमेंट 2232312 रद्द कर दी गई है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /show_offers
+Bot: ज़रूर, नीचे सभी चालू ऑफ़र दिए गए हैं। सभी ऑफ़र्स देखने के लिए स्लाइड करें:
+Bot: None
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "4"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋
+
+==== Conversation @ 2025-07-16 13:37:31 | User ID: n6ZAMQNxdqg2ue98AAAH ====
+User: 
+Bot: 🌐 Welcome! (स्वागत है!) 🙏 
+Please select your preferred language to continue.
+कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 1
+Bot: ❌ '1' is not a valid 7-digit AWB number. Please try again.
+User: my awb no. is 1234
+Bot: ❌ '1234' is not a valid 7-digit AWB number. Please try again.
+User: my awb no. is 1234567
+Bot: ✅ Your package with AWB 1234567 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 222
+Bot: Shipment 222 has been cancelled.
+Bot: Is there anything else I can help you with?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "4"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-16 13:38:32 | User ID: P3nxqS8M-Pxm4wTrAAAJ ====
+User: 
+Bot: 🌐 Welcome! (स्वागत है!) 🙏 
+Please select your preferred language to continue.
+कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /delivery_delay_issue
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223
+Bot:  शिपमेंट एडब्ल्यूबी 223 स्थानीय मौसम के कारण विलंबित है। अब यह कल तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /cancel_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 111
+Bot: शिपमेंट 111 रद्द कर दी गई है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "2"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋
+
+==== Conversation @ 2025-07-16 23:18:06 | User ID: 4qEflV_cqPQim7l2AAAD ====
+User: 
+Bot: 🌐 Welcome! (स्वागत है!) 🙏 
+Please select your preferred language to continue.
+कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 223
+Bot: ❌ '223' is not a valid 7-digit AWB number. Please try again.
+User: 2233345
+Bot: ✅ Your package with AWB 2233345 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 221
+Bot: Shipment 221 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 221
+Bot: Shipment 221 has been cancelled.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "4"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-16 23:21:10 | User ID: 6c4gZdvV8fswt10eAAAF ====
+User: 
+Bot: 🌐 Welcome! (स्वागत है!) 🙏 
+Please select your preferred language to continue.
+कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /delivery_delay_issue
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: मेरा एडब्ल्यूबी नंबर 4455667 है
+Bot:  शिपमेंट एडब्ल्यूबी 4455667 स्थानीय मौसम के कारण विलंबित है। अब यह कल तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223
+Bot: ❌ '223' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 2231223
+Bot: ✅ आपका पार्सल एडब्ल्यूबी 2231223 ट्रांजिट में है और इसके कल शाम तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /show_offers
+Bot: ज़रूर, नीचे सभी चालू ऑफ़र दिए गए हैं। सभी ऑफ़र्स देखने के लिए स्लाइड करें:
+Bot: None
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /cancel_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: मेरा एडब्ल्यूबी नंबर 4455667 है
+Bot: शिपमेंट 4455667 रद्द कर दी गई है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "3"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋
+
+==== Conversation @ 2025-07-17 10:17:52 | User ID: 2VPMX_B90hVefXk-AAAV ====
+User: 
+Bot: 🌐 Welcome! (स्वागत है!) 🙏 
+Please select your preferred language to continue.
+कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।
+User: /choose_language{"language1": "english"}
+Bot: Hi! I can help you with shipment-related tasks. What would you like to do?
+User: /track_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 223
+Bot: ❌ '223' is not a valid 7-digit AWB number. Please try again.
+User: 3343342
+Bot: ✅ Your package with AWB 3343342 is in transit and expected to be delivered by tomorrow evening.
+Bot: Is there anything else I can help you with?
+User: /delivery_delay_issue
+Bot: 📦 Please enter your 7-digit AWB number:
+User: my awb no. is 2334456
+Bot: Shipment 2334456 is delayed due to local weather. New delivery expected by tomorrow.
+Bot: Is there anything else I can help you with?
+User: /show_offers
+Bot: Sure, below are the ongoing offers. Slide the images to see all:
+Bot: None
+Bot: Is there anything else I can help you with?
+User: /cancel_shipment
+Bot: 📦 Please enter your 7-digit AWB number:
+User: 7787764
+Bot: Shipment 7787764 has been cancelled.
+Bot: Is there anything else I can help you with?
+User: /end_conversation
+Bot: Please rate your experience:
+User: /rate_experience{"rating_value": "3"}
+Bot: Thank you for using our service. We appreciate your feedback. Have a great day! 👋
+
+==== Conversation @ 2025-07-17 10:26:17 | User ID: SQwuGMMqOMbskesBAAAZ ====
+User: 
+Bot: 🌐 Welcome! (स्वागत है!) 🙏 
+Please select your preferred language to continue.
+कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 221
+Bot: ❌ '221' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 4456673
+Bot: ✅ आपका पार्सल एडब्ल्यूबी 4456673 ट्रांजिट में है और इसके कल शाम तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /delivery_delay_issue
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: मेरा एडब्ल्यूबी नंबर 4455667 है
+Bot:  शिपमेंट एडब्ल्यूबी 4455667 स्थानीय मौसम के कारण विलंबित है। अब यह कल तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /show_offers
+Bot: ज़रूर, नीचे सभी चालू ऑफ़र दिए गए हैं। सभी ऑफ़र्स देखने के लिए स्लाइड करें:
+Bot: None
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /cancel_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: मेरा एडब्ल्यूबी नंबर 4455667 है
+Bot: शिपमेंट 4455667 रद्द कर दी गई है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "4"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋
+
+==== Conversation @ 2025-07-18 01:06:03 | User ID: vYOl8pnDNjX22ZGbAAAN ====
+User: 
+Bot: 🌐 Welcome! (स्वागत है!) 🙏 
+Please select your preferred language to continue.
+कृपया आगे बढ़ने के लिए अपनी पसंदीदा भाषा चुनें।
+User: /choose_language{"language1": "hindi"}
+Bot: नमस्कार! मैं आपको शिपमेंट से संबंधित कार्यों में मदद कर सकता हूँ। कृपया बताएं, आप क्या करना चाहेंगे?
+User: /track_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 223
+Bot: ❌ '223' एक मान्य ७-अंकीय संख्या नहीं है। कृपया पुनः प्रयास करें।
+User: 2231222
+Bot: ✅ आपका पार्सल एडब्ल्यूबी 2231222 ट्रांजिट में है और इसके कल शाम तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /delivery_delay_issue
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: 221
+Bot:  शिपमेंट एडब्ल्यूबी 221 स्थानीय मौसम के कारण विलंबित है। अब यह कल तक डिलीवर होने की उम्मीद है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /show_offers
+Bot: ज़रूर, नीचे सभी चालू ऑफ़र दिए गए हैं। सभी ऑफ़र्स देखने के लिए स्लाइड करें:
+Bot: None
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /cancel_shipment
+Bot: 📦 कृपया अपना ७ अंकों वाला एडब्ल्यूबी संख्या दर्ज करें:
+User: मेरा एडब्ल्यूबी नंबर 4455667 है
+Bot: शिपमेंट 4455667 रद्द कर दी गई है।
+Bot: क्या मैं आपकी किसी और चीज़ में मदद कर सकता हूँ?
+User: /end_conversation
+Bot: कृपया अपने अनुभव को रेट करें:
+User: /rate_experience{"rating_value": "2"}
+Bot: 🙏 हमारे सेवा का उपयोग करने के लिए धन्यवाद। हम आपकी प्रतिक्रिया की सराहना करते हैं। आपका दिन शुभ हो! 👋

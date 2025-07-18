@@ -1,0 +1,36 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-awb_number",
+      "2": "I-awb_number",
+      "3": "L-awb_number",
+      "4": "U-awb_number",
+      "5": "B-pincode",
+      "6": "I-pincode",
+      "7": "L-pincode",
+      "8": "U-pincode",
+      "9": "B-rating_value",
+      "10": "I-rating_value",
+      "11": "L-rating_value",
+      "12": "U-rating_value",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-awb_number": 1,
+      "I-awb_number": 2,
+      "L-awb_number": 3,
+      "U-awb_number": 4,
+      "B-pincode": 5,
+      "I-pincode": 6,
+      "L-pincode": 7,
+      "U-pincode": 8,
+      "B-rating_value": 9,
+      "I-rating_value": 10,
+      "L-rating_value": 11,
+      "U-rating_value": 12,
+      "O": 0
+    },
+    "num_tags": 13
+  }
+]

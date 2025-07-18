@@ -1,0 +1,213 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - hey
+    - good morning
+    - good evening
+    - नमस्ते
+    - हाय
+    - हेलो
+    - शुभ प्रभात
+    - शुभ संध्या
+
+- intent: choose_language
+  examples: |
+    - english
+    - हिंदी
+    - hindi
+
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you
+    - thanks, bye
+    - that’s all for now
+    - बाय
+    - अलविदा
+    - आपसे बात करके अच्छा लगा
+    - चलते हैं
+
+- intent: track_shipment
+  examples: |
+    - Track my shipment
+    - Where is my parcel?
+    - Track my order
+    - Can you track my delivery?
+    - I want to check my shipment status
+    - Please track my order
+    - ऑर्डर को ट्रैक करो
+    - मेरा पार्सल कहाँ है?
+    - शिपमेंट ट्रैक करें
+    - डिलीवरी स्टेटस बताओ
+    - ऑर्डर की स्थिति दिखाओ
+    - मेरा ऑर्डर ट्रैक करना है
+
+- intent: delivery_delay_issue
+  examples: |
+    - My package is delayed
+    - Why is my delivery late?
+    - It's been a long time, where is my parcel?
+    - My shipment hasn’t arrived yet
+    - I haven’t received my order
+    - There is a delay in my delivery
+    - मेरी डिलीवरी में देरी हो रही है
+    - पार्सल अब तक नहीं आया
+    - ऑर्डर लेट हो गया है
+    - डिलीवरी टाइम से नहीं आई
+    - मेरा ऑर्डर अब तक नहीं मिला
+    - बहुत देर हो गई है, पार्सल कहाँ है?
+
+- intent: show_offers
+  examples: |
+    - Show me offers
+    - What are the current offers?
+    - Any discounts available?
+    - Do you have any running offers?
+    - I want to see promotions
+    - Tell me about the latest deals
+    - अभी कौन से ऑफ़र चल रहे हैं?
+    - ऑफ़र दिखाओ
+    - मुझे ऑफ़र्स देखने हैं
+    - कोई डिस्काउंट है क्या?
+    - लेटेस्ट डील्स बताइए
+    - आपके पास क्या ऑफ़र हैं?
+
+
+- intent: cancel_shipment
+  examples: |
+    - Cancel my shipment
+    - I want to cancel the delivery
+    - Stop my shipment now
+    - Please cancel the shipment
+    - मेरी शिपमेंट रद्द करो
+    - डिलीवरी को रोक दो
+    - शिपमेंट को अब कैंसल करो
+    - कृपया मेरी शिपमेंट को रद्द कर दो
+
+# - intent: pickup_request
+#   examples: |
+#     - Arrange a pickup
+
+# - intent: change_delivery_pincode
+#   examples: |
+#     - I want to change the delivery pincode
+
+- intent: provide_awb_number
+  examples: |
+    - [1234567](awb_number)
+    - [7654327](awb_number)
+    - [9876547](awb_number)
+    - [1122337](awb_number)
+    - [9988777](awb_number)
+    - [4567897](awb_number)
+    - [7008007](awb_number)
+    - my awb number is [1234567](awb_number)
+    - [7654327](awb_number) is my awb number 
+    - awb number [9876547](awb_number)
+    - I have an awb number [1122337](awb_number)
+    - एडब्ल्यूबी नंबर [2233444](awb_number) है
+    - एडब्ल्यूबी नंबर [3344556](awb_number) भेजना है
+    - मेरा एडब्ल्यूबी नंबर [4455667](awb_number) है
+    - एडब्ल्यूबी नंबर [5566778](awb_number) है
+   # # - 9900112 वाला ऑर्डर मुझे अब नहीं चाहिए, उसे कैंसल कर दीजिए
+   # # - कृपया 1011123 की डिलीवरी रोक दीजिए
+   # # - क्या आप 4455667 की शिपमेंट को अभी रोक सकते हैं
+   # # - शिपमेंट 6677889 कैंसल करना है, अभी भेजा न जाए 
+   # # - मैंने 7788123 नंबर का ऑर्डर किया था, पर अब कैंसिल करना है।
+# - intent: provide_pincode
+#   examples: |
+#     - [400076](pincode)
+#     - [110001](pincode)
+#     - [560034](pincode)
+#     - [700001](pincode)
+#     - [500032](pincode)
+#     - [411045](pincode) 
+
+- intent: rate_experience
+  examples: |
+    - [1](rating_value)
+    - [2](rating_value)
+    - [3](rating_value)
+    - [4](rating_value)
+    - [5](rating_value)
+# - intent: ask_llama
+#   examples: |
+#     - Tell me about black holes
+#     - Explain quantum physics
+#     - What is the speed of light?
+#     - How does gravity work?
+#     - Who was Albert Einstein?
+
+# - intent: recommend_movie
+#   examples: |
+#     - can you recommend a movie?
+#     - suggest a movie
+#     - I want to watch a movie
+#     - any movie recommendation?
+#     - find a movie
+#     - give me a movie
+
+# - intent: inform_actor
+#   examples: |
+#     - [Tom Cruise](actor)
+#     - with [Leonardo DiCaprio](actor)
+#     - starring [Will Smith](actor)
+#     - featuring [Tom Hanks](actor)
+#     - with [Priyanka Chopra](actor)
+#     - [Ranbir Kapoor](actor)
+#     - I want movies with [Robert Downey Jr.](actor)
+
+# - intent: tell_weather
+#   examples: |
+#     - Show me weather
+#     - Give me today's weather
+#     - weather
+#     - check the weather
+
+# - intent: ask_city
+#   examples: |
+#     - What's the weather in [Mumbai](city)?
+#     - I want to check weather of [Pune](city)
+#     - [Hyderabad](city)
+#     - [weather](city)
+#     - Weather of [Delhi](city)
+#     - [Pune](city)
+#     - [Mumbai](city)
+#     - [Chennai](city)
+#     - temperature in [Bangalore](city)
+#     - [Kolkata](city) weather
+
+# -intent: ask_date
+#   examples: |
+#     - what is the date today
+#     - tell me today's date
+#     - date of today
+#     - what is the date tomorrow
+#     - what was the date yesterday
+#     - what is the date 2 days ago
+#     - date 3 days later
+#     - what will be the date in 5 days
+
+# - intent: ask_time
+#   examples: |
+#     - what is the time now
+#     - current time
+#     - tell me the time
+#     - time 2 hours ago
+#     - what will be the time in 3 hours
+#     - time 4 hours later  
+
+#   # Multi-intent: 
+# - intent: inform_actor+ask_city
+#   examples: |
+#       - I want to watch a movie with [Leonardo DiCaprio](actor) and check the weather in [Mumbai](city)
+#       - Show me a [Tom Cruise](actor) film and what's the weather in [Pune](city)
+#       - Can I get a movie with [Will Smith](actor) and also know the weather of [Delhi](city)?
+#       - Find a [Ranbir Kapoor](actor) movie and tell me the weather in [Chennai](city)
+#       - Recommend a movie with [Priyanka Chopra](actor) and temperature in [Bangalore](city)

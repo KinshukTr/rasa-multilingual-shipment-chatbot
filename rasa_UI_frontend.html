@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rasa Guided UI bot</title>
+  
+</head>
+
+<body>
+  <h1>Rasa Guided Multilingual SmartBot</h1>
+  <hr>
+
+  <!-- Rasa Webchat Container -->
+  <div id="webchat"></div>
+  <style>
+     .rw-conversation-container .rw-header{background-color:hsl(250, 69%, 61%);}
+     .rw-conversation-container .rw-messages-container .rw-message .rw-client{background-color: hsl(250, 69%, 61%);}
+     .rw-launcher{background-color: hsl(250, 69%, 61%);}
+     .rw-conversation-container .rw-reply{background-color: hsl(250, 69%, 61%); border: 1px solid hsl(250, 69%, 61%);}
+  </style>
+
+  <!-- Webchat Script -->
+  <script>
+    !(function () {
+      let e = document.createElement("script"),
+        t = document.head || document.getElementsByTagName("head")[0];
+      e.src = "https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.js";
+      e.async = true;
+      e.onload = () => {
+        window.WebChat.default(
+          {
+            selector: "#webchat",
+            title: "SmartBot",
+            subtitle: "Your AI Assistant",
+            profileAvatar: "https://cdn-icons-png.flaticon.com/512/4712/4712044.png",
+            
+            
+            
+            
+            //userAvatar: "https://cdn-icons-png.flaticon.com/512/4712/4712044.png", 
+            showMessageDate: true,
+
+          
+            customData: { language: "en" },
+            socketUrl: "http://localhost:5005/",
+            showFullScreenButton: true,
+            inputTextFieldHint: "Type your awb no./pincode...",
+            //embedded: true,
+            //showCloseButton: true,
+            
+            
+          },
+          null
+        );
+            window.WebChatRef = WebChat;
+      };
+      t.insertBefore(e, t.firstChild);
+    })();
+    localStorage.clear();
+  </script>
+ 
+</body>
+</html>

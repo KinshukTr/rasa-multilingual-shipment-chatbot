@@ -1,0 +1,153 @@
+version: "3.1"
+
+stories:
+
+- story: Basic
+  steps:
+    - intent: greet
+    - action: utter_greet_language_prompt         # Bot asks: "Please choose your language"
+    - intent: choose_language                     # User chooses language (Hindi or English)
+    # - action: action_set_language                 # Bot acknowledges and sets language
+    - action: utter_greet 
+    # - action: action_summarize_sentiment
+    # - intent: recommend_movie
+    # - action: utter_ask_actor
+    # - intent: inform_actor
+    # - action: action_recommend_movie
+
+
+- story: Track shipment via form
+  steps:
+    
+    - intent: track_shipment
+    - action: utter_ask_awb_no.
+    # - intent: provide_awb_number   # Some issue here...
+    - action: awb_form                 
+    - active_loop: awb_form               
+
+    - active_loop: null
+    - action: action_track_shipment
+    - action: utter_main_menu
+     
+- story: Delivery delay issue
+  steps:
+
+    - intent: delivery_delay_issue
+    - action: utter_ask_awb_no.
+    - intent: provide_awb_number   # Some issue here...
+    # - action: awb_form                 
+    # - active_loop: awb_form               
+
+    # - active_loop: null
+    - action: action_check_delay
+    - action: utter_main_menu
+
+
+- story: Cancel shipment with AWB
+  steps:
+  - intent: cancel_shipment
+  # - action: action_detect_language
+  - action: action_ask_awb_no
+  - intent: provide_awb_number
+  # - action: awb_form                 
+  # - active_loop: awb_form               
+
+  # - active_loop: null
+  # - action: action_detect_language
+  - action: action_cancel_shipment
+  - action: utter_main_menu
+
+- story: show offers
+  steps:
+    - intent: show_offers
+    - action: action_show_offers
+    - action: utter_main_menu
+
+- story: rating system
+  steps:
+    - intent: end_conversation
+    - action: utter_ask_rating
+    - intent: rate_experience 
+    - action: action_store_rating
+    # - action: utter_goodbye
+    - action: action_summarize_sentiment
+    
+# - story: llama query
+#   steps:
+#     - intent: greet
+#     - action: utter_greet
+#     - intent: ask_llama
+#     - action: action_llama_response
+
+# - story: Get weather only
+#   steps:
+#     - intent: greet
+#     - action: utter_greet
+#     - intent: tell_weather
+#     - action: utter_ask_city
+#     - intent: ask_city
+#     - action: action_get_weather
+
+# - story: actor and city multi-intent
+#   steps:
+#       - intent: greet
+#       - action: utter_greet
+#       - intent: inform_actor+ask_city
+#       - action: action_recommend_movie
+#       - action: action_get_weather
+
+# - story: tell date
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: ask_date
+#   - action: action_provide_date
+
+# - story: tell time
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: ask_time
+#   - action: action_provide_time
+
+# - story: city and actor multi-intent
+#   steps:
+#     - intent: greet
+#     - action: utter_greet
+#     - intent: ask_city+inform_actor
+#     - action: action_get_weather
+#     - action: action_recommend_movie
+
+# - story: Recommend movie and get weather (multi-intent)
+#   steps:
+#     - intent: recommend_movie+get_weather
+#     - action: action_recommend_movie
+#     - action: action_get_weather
+
+# - story: Recommend movie and then ask for weather (sequential)
+#   steps:
+#     - intent: greet
+#     - action: utter_greet
+#     - intent: recommend_movie
+#     - action: utter_ask_actor
+#     - intent: inform_actor
+#     - action: action_recommend_movie
+#     - intent: tell_weather
+#     - action: utter_ask_city
+#     - intent: ask_city
+#     - action: action_get_weather
+
+
+# - story: ask weather
+#   steps:
+#     - intent: ask_weather
+#     - action: utter_ask_city
+
+# - story: provide city
+#   steps:
+#     - intent: ask_weather
+#       entities:
+#         - city: Mumbai
+#     - slot_was_set:
+#         - city: Mumbai
+#     - action: action_get_weather

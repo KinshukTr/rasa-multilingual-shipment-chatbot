@@ -1,0 +1,66 @@
+{
+  "type": "IntentMaxHistoryTrackerFeaturizer",
+  "state_featurizer": {
+    "action_texts": [],
+    "entity_tag_specs": [],
+    "feature_states": {
+      "intent": {
+        "back": 0,
+        "cancel_shipment": 1,
+        "delivery_delay_issue": 2,
+        "end_conversation": 3,
+        "goodbye": 4,
+        "greet": 5,
+        "nlu_fallback": 6,
+        "out_of_scope": 7,
+        "provide_awb_number": 8,
+        "rate_experience": 9,
+        "restart": 10,
+        "session_start": 11,
+        "show_offers": 12,
+        "track_shipment": 13
+      },
+      "action_name": {
+        "action_listen": 0,
+        "action_restart": 1,
+        "action_session_start": 2,
+        "action_default_fallback": 3,
+        "action_deactivate_loop": 4,
+        "action_revert_fallback_events": 5,
+        "action_default_ask_affirmation": 6,
+        "action_default_ask_rephrase": 7,
+        "action_two_stage_fallback": 8,
+        "action_unlikely_intent": 9,
+        "action_back": 10,
+        "...": 11,
+        "action_extract_slots": 12,
+        "action_track_shipment": 13,
+        "action_check_delay": 14,
+        "validate_awb_form": 15,
+        "action_store_rating": 16,
+        "action_show_offers": 17,
+        "action_summarize_sentiment": 18,
+        "action_detect_language": 19,
+        "action_cancel_shipment": 20,
+        "action_ask_awb_no": 21,
+        "utter_ask_awb_no.": 22,
+        "utter_ask_awb_no._hi": 23,
+        "utter_ask_rating": 24,
+        "utter_goodbye": 25,
+        "utter_greet": 26,
+        "utter_main_menu": 27,
+        "awb_form": 28
+      },
+      "entities": {
+        "awb_number": 0,
+        "rating_value": 1
+      },
+      "slots": {},
+      "active_loop": {
+        "awb_form": 0
+      }
+    }
+  },
+  "remove_duplicates": true,
+  "max_history": 5
+}
